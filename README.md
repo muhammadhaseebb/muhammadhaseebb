@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haseeb</h1>
-<h3 align="center">Front-end Developer | Industrial Coordinator and Head of ILC Cui | Co Campus Director of Artificial Intelligence Community of Pakistan</h3>
+<h3 align="center">Product Designer | UI UX Designer |Front-end Developer</h3>
 
-- 👨‍💻 My UI UX Portfolio Website [https://muhammadhaseeb.me](https://muhammadhaseeb.me)
+- 👨‍💻 My UI UX Portfolio Website [https://muhammadhaseeb.studio](https://muhammadhaseeb.studio)
 
 - 📫 How to reach me **muhammadhaseeeb7@gmail.com**
 
