@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haseeb</h1>
 <h3 align="center">Product Designer | UI UX Designer |Front-end Developer</h3>
 
-- 👨‍💻 My UI UX Portfolio Website [https://muhammadhaseeb.studio](https://muhammadhaseeb.art)
+- 👨‍💻 My UI UX Portfolio Website [https://muhammadhaseeb.art](https://muhammadhaseeb.art)
 
 - 📫 How to reach me **muhammadhaseeeb7@gmail.com**
 
