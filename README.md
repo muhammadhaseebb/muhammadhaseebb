@@ -13,7 +13,7 @@
 <a href="https://dribbble.com/haseeb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="haseeb7" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools & Technologies:</h3>
 <p align="left"><a href="https://dart.dev" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/businessboosterfyp-ac47a.appspot.com/o/xd.png?alt=media&token=02e518a9-b613-4b52-9db0-48e5a8fc4330" alt="xd" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
